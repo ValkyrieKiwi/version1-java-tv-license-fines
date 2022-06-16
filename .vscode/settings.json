@@ -1,3 +1,6 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "flat",
+    "appService.defaultWebAppToDeploy": "/subscriptions/27a3d166-6bf2-4d30-b653-af33fdb91fac/microsoft.web/sites/subscriptions/27a3d166-6bf2-4d30-b653-af33fdb91fac/resourceGroups/web-apps/providers/Microsoft.Web/sites/ClientSimProject",
+    "appService.deploySubpath": "complete\\.mvn\\wrapper\\maven-wrapper.jar"
 }
